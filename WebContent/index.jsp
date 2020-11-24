@@ -4,9 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Git수업 </title>
 </head>
 <body>
-	Hi nice to meet you
+	<fieldset>
+		<legend>GIT수업</legend>
+		<h2>Git수업</h2>
+	</fieldset>
 </body>
 </html>
